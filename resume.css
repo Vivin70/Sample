@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Vivin's Resume</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#experience">Experience</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="resume">
+    <div class="container">
+      <h1>Vivin's Resume</h1>
+      <h2>Education</h2>
+      <p><strong>KG College of Arts and Science</strong> | Bachelor of Science in Computer Science | 2025</p>
+
+      <h2>Experience</h2>
+      <p><strong>Web Developer Intern</strong> | ABC Tech Solutions | 2024-2025</p>
+      <ul>
+        <li>Developed front-end components using HTML, CSS,
